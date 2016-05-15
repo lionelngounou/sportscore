@@ -1,0 +1,9 @@
+<sitemesh>
+    <mapping decorator="/WEB-INF/layouts/baseLayout.jsp" />
+	
+<!--    <mapping path="/account" decorator="/WEB-INF/layouts/accountLayout.jsp" />
+    <mapping path="/account/*" decorator="/WEB-INF/layouts/accountLayout.jsp" />
+	
+    <mapping path="/register" decorator="/WEB-INF/layouts/baseLayout.jsp" />
+    <mapping path="/login" decorator="/WEB-INF/layouts/baseLayout.jsp" />-->
+</sitemesh>
